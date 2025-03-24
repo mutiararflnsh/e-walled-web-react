@@ -1,0 +1,25 @@
+.text-note-container {
+    margin-bottom: 24px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    background-color: #fafbfd;
+    padding: 8px;
+    border-radius: 10px;
+}
+
+.text-note-label {
+    font-weight: bold;
+    padding-left: 16px;
+}
+
+.text-note-input {
+    width: 100%;
+    padding: 8px;
+    border-radius: 12px;
+    border: none;
+    font-size: 16px;
+    outline: none;
+    background-color: #fafbfd;
+}
